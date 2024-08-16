@@ -32,8 +32,9 @@ function displayMenuItems(menu) {
             // QUESTION: Attach a click event listener to the list item to add it to the order.
 
             // QUESTION: How can you append the list item to the list of items for this category?
-        });
-    }
+
+    })
+}
 }
 
 // QUESTION: How can you update the order when an item is added? What elements in the HTML do you need to reference?
